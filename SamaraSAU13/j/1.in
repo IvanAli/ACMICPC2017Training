@@ -1,0 +1,18 @@
+3 2
+2 3 5
+15
+moveLeft
+insertLeft 1
+moveLeft
+print
+moveLeft
+moveRight
+print
+moveRight
+insertRight 4
+moveRight
+moveRight
+print
+moveRight
+moveLeft
+print

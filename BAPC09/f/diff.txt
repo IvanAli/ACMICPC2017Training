@@ -1,0 +1,194 @@
+3000								3000
+3001							      |	3000
+							      >	3000
+3000								3000
+3001								3001
+3001								3001
+3001								3001
+3001								3001
+3000							      <
+3001								3001
+3000							      |	3001
+3001								3001
+3001								3001
+unreachable							unreachable
+unreachable							unreachable
+54321								54321
+54321								54321
+unreachable							unreachable
+3076								3076
+3076								3076
+3076								3076
+3077								3077
+3077								3077
+3077								3077
+3077								3077
+3077								3077
+3077								3077
+3077								3077
+3077								3077
+3077								3077
+3077								3077
+3077								3077
+69172								69172
+96543							      |	98664
+77268							      |	67248
+92233								92233
+94259							      |	96893
+93860								93860
+76220								76220
+80168								80168
+81509							      |	98580
+79639								79639
+89851								89851
+90887								90887
+92230								92230
+94294								94294
+96053								96053
+95926								95926
+84464								84464
+97115								97115
+96448								96448
+65241							      |	89185
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+96003							      |	97976
+unreachable							unreachable
+97471								97471
+unreachable							unreachable
+98939								98939
+99673								99673
+unreachable							unreachable
+92776								92776
+90215								90215
+98632								98632
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+97995								97995
+97706							      |	86279
+88113							      |	82381
+99657								99657
+95425								95425
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+73310							      |	79255
+48571							      |	86219
+80122							      |	98086
+63638							      |	99533
+71171							      |	96504
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+26927							      |	94208
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+unreachable							unreachable
+3801							      |	96926
+7069							      |	64497
+6180							      |	17117
+12711							      |	66663
+3091							      |	19283
+3110							      |	68829
+3284							      |	79592
+3574							      |	60631
+15785							      |	17278
+13388							      |	71525
+3448							      |	24062
+3365							      |	73525
+3267							      |	31012
+8790							      |	56502
+9022							      |	53977
+30058							      |	91967
+3580							      |	82209
+3412							      |	63557
+3184							      |	44904
+14780							      |	73312
+24881							      |	89492
+14328							      |	78222
+3402							      |	69265
+3608							      |	76810
+3596							      |	75854
+22095							      |	34372
+35362							      |	99995
+11721							      |	79080
+4194							      |	89795
+3551							      |	95012
+3828							      |	99081
+24152							      |	73959
+37835							      |	80438
+35469							      |	77852
+3780							      |	80287
+3274							      |	38090
+3804							      |	83283
+50179							      |	93452
+49381							      |	84418
+45139							      |	93914
+3670							      |	84562
+4149							      |	86537
+3941							      |	84890
+62564							      |	93345
+37392							      |	92531
+30568							      |	80465
+3848							      |	87570
+3637							      |	75373
+3545							      |	54525
+50432							      |	96843
+58187							      |	94305
+29931							      |	96387
+3713							      |	82143
+4090							      |	85777
+4292							      |	77632
+58590							      |	92541
+61174							      |	88043
+39327							      |	76106
+3825							      |	99298
+3566							      |	95194
+3927							      |	99221
+3075								3075
+3082								3082
+unreachable							unreachable

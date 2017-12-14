@@ -1,0 +1,12 @@
+2
+mother
+father
+
+7
+voda
+yoda
+vina
+boda
+vona
+beda
+vino

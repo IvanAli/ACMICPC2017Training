@@ -1,0 +1,45 @@
+G) Number Game
+
+Resumen: el juego se trata de tomar uno de los números en la lista, tal que los vecinos de ese
+número sean estrictamente menores que el número que se desea tomar. Cuando un número es tomado,
+deja de existir en la lista y el hueco ahí queda. El último en tomar el número uno gana
+
+Cuando uno no está en la posición 1 o en la posición N:
+
+La estrategia óptima es que una vez que uno de los vecinos de uno es tomado, ambos jugadores
+tratarán de alargar el juego el mayor tiempo posible (esto lo hacen evitando tomar el vecino
+restante de uno, porque si alguien toma ese vecino restante, entonces el próximo jugador ganará
+al tomar uno)
+
+Lo que hay que hacer es ver quién gana cuando se toma el vecino de la izquierda de uno, y también
+ver quién gana cuando se toma el vecino de la derecha de uno. Vamos a enfocarnos en que el primer
+vecino que se toma es el de la izquierda, lo cual significa que el segundo de la derecha se
+tratará de tomar lo más tarde posible. Tomar ese vecino de la izquierda puede ocurrir en cualquier
+momento, porque como cada jugador solo puede llevar a cabo un solo movimiento en su turno (tomar 
+un número), e imaginando algún estado en que el vecino de la izquierda ya fue tomado, entonces
+no importó en qué momento se tomó el vecino izquierdo para llegar a ese estado, porque
+cualquier manera toma el mismo número de pasos para llegar a ese estado sin el primer vecino.
+Después, basta ver qué tanto los jugadores pueden evitar tomar el vecino de la derecha para no
+perder. La paridad del número de pasos que tomó agarrar piezas hasta que fuera tomar el vecino
+de la derecha inevitable + 2 (para contar el movimiento de tomar el vecino de la derecha y el
+número uno) determina quién ganó (Alice gana si es impar, Bob gana si es par).
+
+Haces lo mismo para cuando tomas primero el vecino de la derecha y evitas lo más que puedas
+tomar el vecino de la izquierda. El número de pasos resultantes también determina quién gana.
+
+
+En caso de que en ambas situaciones Alice ganó, entonces no hay remedio para Bob, por lo que Alice
+gana. Lo mismo si Bob gana en ambas situaciones, Alice no tiene manera de ganar.
+
+En el caso de que uno ganó un juego y el otro ganó el otro, Alice tratará de tomar el vecino
+que le conviene y que lleva a su victoria lo más rápido que pueda. Bob tratará de hacer lo mismo.
+
+El mínimo número de pasos para tomar el vecino que le conviene es la longitud de la cadena
+creciente que parte de la posición del uno (por ejemplo, en 6 4 3 2 1 puedes empezar a tomar
+desde el 3)
+
+El caso de que el mínimo número de pasos es igual para ambos, Alice gana ya que ella tiene el
+primer movimiento
+
+Para cuando uno está en la posición 1 o en la posición N, entonces el juego se lleva a cabo
+como si un vecino ya fue tomado y tratan de alargarlo lo más posible
